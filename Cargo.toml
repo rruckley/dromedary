@@ -1,0 +1,10 @@
+[workspace]
+members = ["parent","dromedary","core"]
+resolver = "2"
+
+[workspace.package]
+name = "dromedary"
+version = "0.1.0"
+edition = "2021"
+description = "A Rust implementation of Apache Camel"
+authors = ["Ryan Ruckley <rruckley@gmail.com>"]
