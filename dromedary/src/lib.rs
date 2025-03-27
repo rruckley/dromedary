@@ -3,4 +3,5 @@
 
 #[warn(missing_docs)]
 
+/// Primary Structure
 pub struct Dromedary {}
