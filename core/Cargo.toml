@@ -3,3 +3,6 @@ name = "dromedary-core"
 version.workspace = true
 edition.workspace = true
 description.workspace = true
+
+[dependencies]
+nom = "8.0.0"
